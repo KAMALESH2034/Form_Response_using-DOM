@@ -1,0 +1,26 @@
+body{
+    padding: 0;
+    margin: 0;
+    background: rgb(207,243,35);
+background: linear-gradient(90deg, rgba(207,243,35,0.5944502801120448) 0%, rgba(72,214,71,0.5188200280112045) 45%, rgba(255,0,228,0.3647584033613446) 76%);
+}
+
+.cointainer{
+    margin: 10px 0px 0px 40px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode';
+    font-weight: bolder;
+}
+
+
+
+.food_span{
+    opacity: 0.5;
+
+}
+.table-head{
+    background-color: rgb(157, 157, 201);
+}
+table{
+    overflow-y: scroll;
+    overflow-x: scroll;
+}
